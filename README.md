@@ -71,7 +71,7 @@ Both challenges were resolved successfully.
 
 ## Submission Details
 
-- **Repository Link:** [GitHub URL]
+- **Repository Link:** https://github.com/nellyngoga/oracle_pdb_ass_II_29139_Nelly
 - **PDB Name Created:** `ne_pdb_29139`
 - **Issues Encountered:** Yes (resolved  see Challenges above)
 

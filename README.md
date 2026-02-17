@@ -1,7 +1,7 @@
 # Oracle Pluggable Database (PDB) Management - Assignment II
 
 ## Student Information
-- **Name:** Ngoge Nelly Urujeni
+- **Name:** Ngoga Nelly Urujeni
 - **Student ID:** 29139
 - **Course:** Database Development with PL/SQL (INSY 8311)
 - **Instructor:** Eric Maniraguha

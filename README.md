@@ -1,4 +1,4 @@
-# Oracle Pluggable Database (PDB) Management - Assignment II
+# Individual Assignment II: Oracle Pluggable Databases (PDB) Management
 
 ## Student Information
 - **Name:** Ngoga Nelly Urujeni
